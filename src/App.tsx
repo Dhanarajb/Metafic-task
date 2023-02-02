@@ -1,5 +1,5 @@
-import "./styles.css";
 import React, { useEffect, useState } from "react";
+import "./styles.css";
 
 const USERS_API = "https://63a5d671f8f3f6d4ab011f37.mockapi.io/api/v1/users";
 
